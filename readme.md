@@ -1,0 +1,1 @@
+データ取得元：[ODPT ドコモ・バイクシェア バイクシェア関連情報(GBFS形式)](https://ckan.odpt.org/dataset/c_bikeshare_gbfs-d-bikeshare)
